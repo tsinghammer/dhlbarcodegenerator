@@ -1,0 +1,11 @@
+C:\Projects\dhlbarcodegenerator\bin\Debug\netcoreapp2.0\dhlbarcodegenerator.deps.json
+C:\Projects\dhlbarcodegenerator\bin\Debug\netcoreapp2.0\dhlbarcodegenerator.runtimeconfig.json
+C:\Projects\dhlbarcodegenerator\bin\Debug\netcoreapp2.0\dhlbarcodegenerator.runtimeconfig.dev.json
+C:\Projects\dhlbarcodegenerator\bin\Debug\netcoreapp2.0\dhlbarcodegenerator.dll
+C:\Projects\dhlbarcodegenerator\bin\Debug\netcoreapp2.0\dhlbarcodegenerator.pdb
+C:\Projects\dhlbarcodegenerator\obj\Debug\netcoreapp2.0\dhlbarcodegenerator.csprojAssemblyReference.cache
+C:\Projects\dhlbarcodegenerator\obj\Debug\netcoreapp2.0\dhlbarcodegenerator.csproj.CoreCompileInputs.cache
+C:\Projects\dhlbarcodegenerator\obj\Debug\netcoreapp2.0\dhlbarcodegenerator.AssemblyInfoInputs.cache
+C:\Projects\dhlbarcodegenerator\obj\Debug\netcoreapp2.0\dhlbarcodegenerator.AssemblyInfo.cs
+C:\Projects\dhlbarcodegenerator\obj\Debug\netcoreapp2.0\dhlbarcodegenerator.dll
+C:\Projects\dhlbarcodegenerator\obj\Debug\netcoreapp2.0\dhlbarcodegenerator.pdb
